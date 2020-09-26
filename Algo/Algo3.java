@@ -1,7 +1,8 @@
+package com.exercice;
 
 import java.util.Scanner;
 
-class Algo3c{
+class Algo3{
 
     //Algo 3c Afficher de n à m (de manière décroissante). 
     static Scanner input = new Scanner(System.in);
@@ -15,7 +16,7 @@ class Algo3c{
         int[] tab = new int[j];
         int  max;
         int i = 0;
-        int cpt = tab.length; 
+        int cpt = 5; 
 
         boolean permut = true; 
 
