@@ -50,14 +50,11 @@ Dans un premier temps, au travers de livres et de cours en e-learning :  [OpenCl
 Ce dépôt Git Hub contient quelques projets que j'ai pu mener durant cette période d'apprentissage. 
 
 Mes environnements de travail ont évolués, j'ai commencé par l'IDE Visual Studio code, puis Eclipse et je navigues actuellement en IntelliJ et Emacs.
+.
     <br />
     <a href="https://github.com/Charlene19/Projet-Java-Debutant"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    ·
-    <a href="https://github.com/Charlene19/Projet-Java-Debutant/issues">Report Bug</a>
-    ·
-    <a href="href="https://github.com/Charlene19/Projet-Java-Debutant/issues">Request Feature</a>
   </p>
 </p>
 
